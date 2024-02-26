@@ -1,6 +1,8 @@
 # Lab#1 Web Architecture
 
-###### The objective of this lab is to provide you with a hands-on understanding of web architecture, focusing on the interaction between front-end (FE) and back-end (BE) systems using APIs. By building upon a pre-existing project structure.
+- Created event listeners for the submit button as well as the table which dynamically creates rows with delete buttons.
+- Created 2 functionalities to create a user and add it to the users' table.
+- Connected the frontend to the backend through the fetch API.
 
 ### How to Run the Project
 
